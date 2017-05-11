@@ -14,21 +14,61 @@
   padding: 10px;
 
 }
+.container{
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-right: 0px;
+  width: 100%;
+}
+.welcome p{
+  font-size: .8em;
+  text-align: center;
+}
+.welcome h2 {
+  text-align: center;
+}
 
- #bluebg {
-    color: #41f4d0;
-    background-color: #f441d0;
+.panel {
 
+  background-color: #a6c8db;
+  margin: 5px;
+  padding: 0px;
+}
+#panelgreen{
+
+  background-color: #a8d6a7;
+  margin: 5px;
+  padding: 0px;
+}
+.panel h4 {
+  font-weight: bolder;
+padding-left: 5px;
+}
+
+
+#TRheading{
+  padding-top: 20px;
+}
+#bluebg {
+    background-color: #d3dcea;
+}
+#sidebar {
+  max-width: 200px;
+}
+.navbar-nav {
+
+}
+h2{
 
 }
 
-h2{
-  
+#searchbar {
+  padding-right: : 10px;
+  margin: 10px;
 }
 
 
 #greenbg {
-    color: #59f442;
-    background-color: #f47641;
 
+    background-color:#cee5cf;
 }
